@@ -1,7 +1,7 @@
 ## Olá! Sou o Pedro
 
 - 🔭 Hoje Trabalho com Data Science
-- 🌱 Estudando Deep Learning
+- Linguagens: C, R, MySQL, Python
   
 <a href="https://github.com/Pedrocoellho">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedrocoellho&theme=dark&show_icons=true&include_all_commits=true" />
